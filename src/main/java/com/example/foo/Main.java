@@ -2,7 +2,7 @@ package com.example.foo;
 
 class Logger {
     public static void info(String message) {
-        //TODO
+        System.out.println(message);
     }
 }
 
@@ -28,3 +28,5 @@ public class Main {
         orderer.order("Jack");
     }
 }
+//John: Doing hard work
+//Jack: Doing hard work
